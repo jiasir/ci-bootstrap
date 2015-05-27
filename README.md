@@ -14,7 +14,3 @@ This open source project will help you to automates your devops lifecycle for yo
 * Auto monitoring the production branch you have go lived.
 
 
-### Core Project Authors
-- pottow (Richard Zhang) <pootow@gmail.com> SHANGPIN Crop. R&D Director
-- jiasir (Taio Jia) <jiasir@icloud.com> SHANGPIN Crop. Ops Manager
-- mengqiang81 (Qiang Meng) <mengqiang81@gmail.com> BEIFU, Chief Architect
