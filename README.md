@@ -8,7 +8,7 @@ This open source project will help you to automates your devops lifecycle for yo
 
 ### Components and features
 * Some puppet language and python, a bit go language for high concurrency to muti-deploy.
-* Provisioning stage using our puppt-openstack project(https://github.com/nofdev/puppet-openstack) for OpenStack Havana and IceHouse.
+* Provisioning stage using our puppt-openstack project(https://github.com/jiasir/puppet-openstack) for OpenStack Havana and IceHouse.
 * Improve the jenkins for scan the jira job to the git environment, and create a branch for testing and production.
 * The production branch will auto go live for production environments, compatibility LVS and Keepalived configuration automation.
 * Auto monitoring the production branch you have go lived.
